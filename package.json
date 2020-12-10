@@ -1,7 +1,8 @@
 {
   "name": "webmonitor-client",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "description": "Client-side application that connects to the webmonitor-server project to get live updates about tracked website changes.",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
