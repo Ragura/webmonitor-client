@@ -1,5 +1,5 @@
 {
-  "name": "client",
+  "name": "webmonitor-client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "register-service-worker": "^1.7.1",
+    "socket.io-client": "^3.0.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
